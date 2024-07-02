@@ -1,0 +1,11 @@
+version: 2
+
+seeds:
+  - name: example_group_event_values
+    description: |
+      example data used in place of the \
+      real data that will be supplied at runtime
+    config:
+      column_types:
+        group_id: varchar
+        event_value: int

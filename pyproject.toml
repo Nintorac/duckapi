@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "duck-api"
+version = "0.1.0"
+description = "using dbt to define datapipelines in duckdb and deploying them to an api"
+authors = ["Nintorac Dev <Nintorac@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "duckapi"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+dbt-core = "^1.8.3"
+dbt-duckdb = "^1.8.1"
+pydantic = "^2.7.4"
+fastapi = "^0.111.0"
+pandas = "^2.2.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.4"
+pytest = "^8.2.2"
+sqlfluff = "^3.0.7"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

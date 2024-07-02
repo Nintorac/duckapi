@@ -1,0 +1,12 @@
+[sqlfluff]
+verbose = 0
+nocolor = False
+dialect = duckdb
+templater = jinja
+output_line_length = 80
+
+[sqlfluff:layout:type:comma]
+line_position = leading
+
+[sqlfluff:capitalisation:type:keywords]
+capitalisation_policy = lower

@@ -1,0 +1,787 @@
+[
+    {
+        "group_sums": [
+            {
+                "group_id": "f",
+                "value_sum": 95
+            },
+            {
+                "group_id": "b",
+                "value_sum": 79
+            },
+            {
+                "group_id": "c",
+                "value_sum": 90
+            },
+            {
+                "group_id": "e",
+                "value_sum": 93
+            },
+            {
+                "group_id": "a",
+                "value_sum": 90
+            },
+            {
+                "group_id": "d",
+                "value_sum": 98
+            }
+        ],
+        "group_sets": [
+            {
+                "group_id": "b",
+                "group_value_set": [
+                    7,
+                    8,
+                    1,
+                    2,
+                    5,
+                    9,
+                    3,
+                    6,
+                    4
+                ]
+            },
+            {
+                "group_id": "f",
+                "group_value_set": [
+                    5,
+                    9,
+                    4,
+                    1,
+                    7,
+                    8,
+                    3,
+                    6,
+                    10,
+                    2
+                ]
+            },
+            {
+                "group_id": "a",
+                "group_value_set": [
+                    6,
+                    3,
+                    4,
+                    10,
+                    2,
+                    8,
+                    7,
+                    5,
+                    9,
+                    1
+                ]
+            },
+            {
+                "group_id": "c",
+                "group_value_set": [
+                    7,
+                    8,
+                    1,
+                    2,
+                    10,
+                    9,
+                    5,
+                    6,
+                    4
+                ]
+            },
+            {
+                "group_id": "e",
+                "group_value_set": [
+                    2,
+                    10,
+                    1,
+                    4,
+                    6,
+                    3,
+                    9,
+                    8,
+                    7
+                ]
+            },
+            {
+                "group_id": "d",
+                "group_value_set": [
+                    9,
+                    5,
+                    3,
+                    6,
+                    8,
+                    7,
+                    1,
+                    2,
+                    10,
+                    4
+                ]
+            }
+        ],
+        "group_event_value_histogram": [
+            {
+                "group_id": "f",
+                "event_value": 10,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "c",
+                "event_value": 4,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "a",
+                "event_value": 1,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 4,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "f",
+                "event_value": 2,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "e",
+                "event_value": 2,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 9,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "a",
+                "event_value": 4,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 5,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "b",
+                "event_value": 1,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 10,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "c",
+                "event_value": 1,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "c",
+                "event_value": 2,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "c",
+                "event_value": 10,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 2,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 3,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 4,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "d",
+                "event_value": 6,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 1,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "a",
+                "event_value": 8,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 9,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 3,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 2,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "c",
+                "event_value": 6,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "a",
+                "event_value": 7,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "d",
+                "event_value": 10,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 6,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "c",
+                "event_value": 9,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 5,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 1,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "e",
+                "event_value": 6,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "f",
+                "event_value": 7,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 9,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 8,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "c",
+                "event_value": 5,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 3,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "a",
+                "event_value": 6,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 7,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "c",
+                "event_value": 7,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 8,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 5,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 9,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "c",
+                "event_value": 8,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "a",
+                "event_value": 3,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "f",
+                "event_value": 3,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "a",
+                "event_value": 5,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 8,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 6,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 7,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "a",
+                "event_value": 9,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 4,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "d",
+                "event_value": 8,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 1,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 4,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "a",
+                "event_value": 10,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "a",
+                "event_value": 2,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 7,
+                "group_event_value_count": 2
+            }
+        ],
+        "group_histogram": [
+            {
+                "group_id": "f",
+                "group_count": 17
+            },
+            {
+                "group_id": "b",
+                "group_count": 16
+            },
+            {
+                "group_id": "d",
+                "group_count": 16
+            },
+            {
+                "group_id": "a",
+                "group_count": 17
+            },
+            {
+                "group_id": "c",
+                "group_count": 16
+            },
+            {
+                "group_id": "e",
+                "group_count": 16
+            }
+        ],
+        "hist_event_values": [
+            {
+                "event_value": 1,
+                "event_value_count": 10
+            },
+            {
+                "event_value": 2,
+                "event_value_count": 10
+            },
+            {
+                "event_value": 10,
+                "event_value_count": 9
+            },
+            {
+                "event_value": 4,
+                "event_value_count": 9
+            },
+            {
+                "event_value": 9,
+                "event_value_count": 11
+            },
+            {
+                "event_value": 5,
+                "event_value_count": 9
+            },
+            {
+                "event_value": 8,
+                "event_value_count": 11
+            },
+            {
+                "event_value": 7,
+                "event_value_count": 10
+            },
+            {
+                "event_value": 3,
+                "event_value_count": 9
+            },
+            {
+                "event_value": 6,
+                "event_value_count": 10
+            }
+        ],
+        "hist_group_event_values": [
+            {
+                "group_id": "f",
+                "event_value": 10,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "c",
+                "event_value": 4,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "a",
+                "event_value": 1,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 4,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "f",
+                "event_value": 2,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "a",
+                "event_value": 6,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 7,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "c",
+                "event_value": 7,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 8,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 5,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 9,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "c",
+                "event_value": 8,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "a",
+                "event_value": 3,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "e",
+                "event_value": 2,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 9,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "a",
+                "event_value": 4,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 5,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "b",
+                "event_value": 1,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 10,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "c",
+                "event_value": 1,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "a",
+                "event_value": 8,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 9,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 3,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 2,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "c",
+                "event_value": 6,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "a",
+                "event_value": 7,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "d",
+                "event_value": 10,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 6,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "c",
+                "event_value": 2,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "c",
+                "event_value": 10,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 2,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 3,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 4,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "d",
+                "event_value": 6,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 1,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "d",
+                "event_value": 8,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 1,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 4,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "a",
+                "event_value": 10,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "a",
+                "event_value": 2,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 7,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "c",
+                "event_value": 9,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 5,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 1,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "e",
+                "event_value": 6,
+                "group_event_value_count": 1
+            },
+            {
+                "group_id": "f",
+                "event_value": 7,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "b",
+                "event_value": 9,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 8,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "c",
+                "event_value": 5,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 3,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 3,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "a",
+                "event_value": 5,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 8,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "f",
+                "event_value": 6,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "e",
+                "event_value": 7,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "a",
+                "event_value": 9,
+                "group_event_value_count": 2
+            },
+            {
+                "group_id": "d",
+                "event_value": 4,
+                "group_event_value_count": 1
+            }
+        ],
+        "hist_groups": [
+            {
+                "group_id": "c",
+                "group_count": 16
+            },
+            {
+                "group_id": "e",
+                "group_count": 16
+            },
+            {
+                "group_id": "a",
+                "group_count": 17
+            },
+            {
+                "group_id": "f",
+                "group_count": 17
+            },
+            {
+                "group_id": "b",
+                "group_count": 16
+            },
+            {
+                "group_id": "d",
+                "group_count": 16
+            }
+        ]
+    }
+]
